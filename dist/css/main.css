@@ -138,7 +138,7 @@ header {
 
 main {
   padding: 4rem;
-  min-height: calc(100vh-footer); }
+  min-height: calc(100vh - 60px); }
   main .icon {
     margin-top: 1rem; }
     main .icon a {
@@ -226,7 +226,7 @@ main {
 #main-footer {
   text-align: center;
   padding: 1rem;
-  background: #0d0d0d;
+  background: #1a1a1a;
   color: #fff;
   height: 60px; }
 
